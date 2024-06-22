@@ -1,0 +1,74 @@
+Mods:
+[ADD] Appleskin // adds food info
+[ADD] Fullbrightnesstoggle
+[ADD] Xaeros_Minimap
+[FIX] NoChatReports
+[ADD] WI-zoom
+[ADD] Modmenu
+[OPT] Lithium
+[ADD] NoFog
+[ADD] Sodium-extra // adds missing settings for sodium
+[OPT] Sodium
+[OPT] entityculling
+[OPT] ImmediatelyFast
+[OPT] Dynamic FPS // reduces fps when minecraft isn't used
+[ADD] Continuity // adds connected textures
+[OPT] modernfix-fabric
+[ADD] Xaero's World Map
+[ADD] BetterF3
+[OPT] Enhanced Block Entities
+[ADD] More Chat History
+[OPT] BadOptimizations
+[ADD] 3D Skin Layers
+[FIX] Jukebox Custom Disc Fix // fixing a music disk display issue
+[OPT] Remove Reloading Screen // avoids waiting reload screen
+[FIX] no telemetry
+[ADD] clientcommands // adds useful commands
+[ADD] cycletitlescreensplash
+[OPT] FerriteCore
+[ADD] Capes
+[ADD] Chat Heads // adds heads on chat
+[ADD] Roughly Enough Items
+[ADD] Configured
+[FIX] Debugify
+[OPT] Cull Leaves
+[ADD] Controlling
+[ADD] Mouse Tweaks
+[ADD] Inventory Profiles Next
+[ADD] Crafting Tweaks
+[ADD] Entity Texture Features
+[ADD] Entity Model Features
+[ADD] Presence Footsteps
+[OPT] Language Reload
+[ADD] Fabrishot
+[ADD] Bobby
+[ADD] Physics Mod
+[ADD] Better Statistics Screen
+[OPT] Ksyxis
+[OPT] Concurrent Chunk Management Engine
+[ADD] Not Enough Animations
+
+Dependencies:
+Fabric-api
+Collective [WI-zoom]
+placeholder [Modmenu]
+Indium [Continuity]
+Cloth Config API [Remove Reloading Screen]
+Fabric Language Kotlin [Capes]
+Architectury API [Roughly Enough Items]
+Balm [Crafting Tweaks]
+TCDCommons API [Better Statistics Screen]
+Searchables [Controlling]
+libIPN [Inventory Profiles Next]
+
+SKILL ISSUES:
+[ADD] Horse-stats-vanilla [NOT AVAILABLE]
+[OPT] Lazydfu [NOT NEEDED, STOPPED, NOT AVAILABLE]
+[ADD] Minihud [NOT AVAILABLE]
+[OPT] Starlight [STOPPED, NOT AVAILABLE]
+[ADD] Carpet [NOT AVAILABLE]
+[ADD] Show Me Your Skin! [NOT AVAILABLE]
+[ADD] Litematica [NOT AVAILABLE]
+[ADD] LambDynamicLights [NOT AVAILABLE]
+[OPT] More Culling [NOT AVAILABLE]
+[OPT] Exordium [NOT AVAILABLE]
