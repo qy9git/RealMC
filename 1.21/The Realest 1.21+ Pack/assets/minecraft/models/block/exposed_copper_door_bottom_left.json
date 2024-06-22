@@ -1,0 +1,7 @@
+{
+	"parent": "block/copper_door_bottom_left",
+	"textures": {
+		"particle": "block/exposed_copper_door_bottom",
+		"bottom": "block/exposed_copper_door_bottom"
+	}
+}

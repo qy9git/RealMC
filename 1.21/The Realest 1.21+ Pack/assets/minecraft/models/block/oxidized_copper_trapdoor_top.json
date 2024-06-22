@@ -1,0 +1,6 @@
+{
+	"parent": "block/copper_trapdoor_top",
+	"textures": {
+		"texture": "block/oxidized_copper_trapdoor"
+	}
+}
