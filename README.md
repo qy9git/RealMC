@@ -3,7 +3,7 @@ install: Download the repo as a zip file or clone the repo if you know how to
 
 quick installation:
 -
-STEP0: launch vanilla "version" with the default launcher
+STEP0: launch vanilla "MinecraftVersion" with the default launcher
 
 STEP1: unzip the file
 
