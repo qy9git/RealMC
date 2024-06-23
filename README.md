@@ -1,7 +1,7 @@
 INSTALLING: Download the repo as a zip file or clone the repo if you know how to
 
 
-QUICK INSTALLATION:
+QUICK INSTALLATION
 -
 STEP0: launch vanilla "MinecraftVersion" with the default launcher
 
@@ -14,7 +14,7 @@ Notice: This will wipe the mods folder and put the mods. if you have extra mods 
 STEP3: install fabric launcher "MinecraftVersion" using the fabric installer exe
 
 
-UPDATING:
+UPDATING
 -
 Just repeat step1 and step2
 
