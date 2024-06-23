@@ -1,7 +1,7 @@
-install: Download the repo as a zip file or clone the repo if you know how to
+INSTALLING: Download the repo as a zip file or clone the repo if you know how to
 
 
-quick installation:
+QUICK INSTALLATION:
 -
 STEP0: launch vanilla "MinecraftVersion" with the default launcher
 
@@ -18,7 +18,7 @@ UPDATING:
 -
 Just repeat step1 and step2
 
-MANUAL INSTALL
+MANUAL INSTALLATION
 -
 To install the mods:
 
