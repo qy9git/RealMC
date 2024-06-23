@@ -19,6 +19,7 @@ UPDATING:
 Just repeat step1 and step2
 
 MANUAL INSTALL
+-
 To install the mods:
 
 Start by going to the default minecraft launcher and launch the desired vanilla version.
