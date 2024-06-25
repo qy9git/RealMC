@@ -1,39 +1,43 @@
-INSTALLING: Download the repo as a zip file or clone the repo if you know how to.
+**To Install:** Download the repo as a zip file or clone the repo if you know how to
 
 
-QUICK INSTALLATION
+Quick Installation:
 -
-STEP0: Launch vanilla "MinecraftVersion" with the default launcher.
+1. launch vanilla "MinecraftVersion" with the default launcher
 
-STEP1: Unzip the file.
+2. unzip the file
 
-STEP2: Run the "MinecraftVersion".bat file.
+3. run the "MinecraftVersion".bat file
 
-Notice: This will wipe the mods folder and put the mods. if you have extra mods you need to put them manually after each update.
+> [!NOTE] 
+> **This will wipe the mods folder and put the mods. If you have extra mods you need to put them manually after each update.**
 
-STEP3: Install fabric launcher "MinecraftVersion" using the fabric installer exe.
+4. install fabric launcher "MinecraftVersion" using the fabric installer exe
 
 
-UPDATING
+UPDATING:
 -
-Just repeat STEP1 and STEP2.
+Just repeat step 2 and step 3
 
-MANUAL INSTALLATION
+MANUAL INSTALL
 -
 To install the mods:
 
-Start by going to the default minecraft launcher and launch the desired vanilla version.
+- Start by going to the default minecraft launcher and launch the desired vanilla version.
 
-Go to the version folder and grab the fabric intaller.
+- Go to the version folder and grab the fabric intaller.
 
-Execute the installer on your desktop. If it doesn't work use the universal .jar instead.
+- Execute the installer on your desktop. If it doesn't work use the universal `.jar` instead.
 
-Select the correct version and install fabric.
+- Select the correct version and install fabric.
 
-To access \.minecraft\mods\ just search %appdata% in the windows search bar.
+- To access `\.minecraft\mods\` just search `%appdata%` in the windows search bar.
 
-Next grab the mods folder from the download and put it inside "\.minecraft\".
+- Next grab the mods folder from the download and put it inside `\.minecraft\`
 
-(Don't put the mods folder inside the mods folder, replace it with).
+> [!WARNING]
+> **DO NOT put the mods folder inside the mods folder, replace it with the modpack.**
 
 Now open the game using fabric in the default minecraft launcher.
+![image](https://github.com/qy9git/RealMC/assets/69980969/65e866b4-bc4e-4ab5-965b-637a3212b2bf)
+
